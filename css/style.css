@@ -1,0 +1,104 @@
+
+
+* {
+    box-sizing: border-box;
+ 
+    }
+
+
+    
+    
+    .labelhtml, 
+    .labelcss, 
+    .labelbootstrap, 
+    .labeljavascript,
+    .labelgithub {
+
+        background-color: #4aaaa5;
+        color: #fff;
+        position: relative;
+        top: 70px;
+        text-align: center;
+        font-size: 10px;
+        padding: 4px;
+
+    }
+    
+    
+
+  
+
+    .img1 {
+        
+        
+        background-image: url("../images/image (5).jpeg");
+        padding: 0px;
+        width: 120px;
+        height: 100px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    
+    
+
+    }
+
+
+    .img2 {
+        
+        background-image: url("../images/image (6).jpeg");
+        padding: 0px;
+        width: 120px;
+        height: 100px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    
+    }
+
+    .img3 {
+
+        
+        background-image: url("../images/image1.jpeg");
+        padding: 0px;
+        width: 120px;
+        height: 100px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    
+    }
+    
+    .img4 {
+    
+        background-image: url("../images/image (7).jpeg");
+        padding: 0px;
+        width: 120px;
+        height: 100px;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+    
+    
+    .img5 {
+        
+    
+        background-image: url("../images/images (4).jpeg");
+        padding: 0px;
+        width: 120px;
+        height: 100px;
+        margin-right: 20px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+    
+   
+
